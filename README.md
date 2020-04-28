@@ -1,3 +1,7 @@
+### 2020.04.28
+### <font color=red>主要是为了搜索免费种，备用的</font>
+
+
 # PT_Assistant
 to help people sign in on a PT website, pull torrents to their email automatically.
 
